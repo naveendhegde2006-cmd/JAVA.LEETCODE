@@ -1,0 +1,21 @@
+import java.util.Arrays;
+class Solution {
+    public int missingNumber(int[] nums)
+     {
+        int i;
+        Arrays.sort(nums);
+        if(nums[0]!=0)
+        return 0;
+        else
+        {
+            for(i=0;i<nums.length-1;i++)
+            {
+                if(nums[i+1]==nums[i]+1)
+                continue;
+                else
+                return nums[i]+1;
+            }
+        }
+        return nums[nums.length-1]+1;
+    }
+}
