@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0566-reshape-the-matrix) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -122,4 +124,8 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
