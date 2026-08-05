@@ -149,4 +149,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
