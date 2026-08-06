@@ -28,6 +28,7 @@
 | [2923-find-champion-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2923-find-champion-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3033-modify-the-matrix) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3731-find-missing-elements](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@
 | [2923-find-champion-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2923-find-champion-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3033-modify-the-matrix) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Number Theory
 |  |
 | ------- |
