@@ -21,6 +21,7 @@
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
@@ -47,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3731-find-missing-elements) |
@@ -66,6 +68,7 @@
 | [0566-reshape-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0832-flipping-an-image) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3033-modify-the-matrix) |
