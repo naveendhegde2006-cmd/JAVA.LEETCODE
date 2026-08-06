@@ -175,4 +175,5 @@
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0596-classes-with-at-least-5-students) |
+| [0627-swap-sex-of-employees](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
