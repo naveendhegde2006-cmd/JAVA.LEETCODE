@@ -23,6 +23,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3033-modify-the-matrix) |
@@ -69,6 +70,7 @@
 | [0766-toeplitz-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0832-flipping-an-image) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3033-modify-the-matrix) |
