@@ -38,6 +38,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0011-container-with-most-water) |
 | [0541-reverse-string-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0881-boats-to-save-people) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0007-reverse-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0877-stone-game) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
@@ -159,6 +161,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0035-search-insert-position) |
+| [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
