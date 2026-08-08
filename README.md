@@ -199,6 +199,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0176-second-highest-salary) |
 | [0596-classes-with-at-least-5-students](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0627-swap-sex-of-employees) |
 ## Timsort
