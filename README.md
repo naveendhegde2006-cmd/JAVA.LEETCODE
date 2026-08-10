@@ -86,6 +86,7 @@
 | [0066-plus-one](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0877-stone-game) |
@@ -110,11 +111,13 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0258-add-digits) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
