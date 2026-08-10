@@ -89,6 +89,7 @@
 | [0258-add-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0319-bulb-switcher) |
+| [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0877-stone-game) |
@@ -253,4 +254,28 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0319-bulb-switcher) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
