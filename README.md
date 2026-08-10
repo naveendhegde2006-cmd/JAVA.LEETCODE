@@ -79,6 +79,7 @@
 | [0007-reverse-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0050-powx-n) |
 ## Stack
 |  |
 | ------- |
