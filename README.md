@@ -257,6 +257,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0627-swap-sex-of-employees) |
 | [1084-sales-analysis-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1084-sales-analysis-iii) |
+| [3436-find-valid-emails](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3436-find-valid-emails) |
 ## Timsort
 |  |
 | ------- |
