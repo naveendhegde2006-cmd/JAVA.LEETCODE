@@ -40,6 +40,7 @@
 | [3033-modify-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -142,6 +143,7 @@
 | [0832-flipping-an-image](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0832-flipping-an-image) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
