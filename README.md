@@ -68,6 +68,7 @@
 | [0012-integer-to-roman](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0541-reverse-string-ii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
@@ -219,6 +220,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Dynamic Programming
 |  |
@@ -230,6 +232,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Game Theory
@@ -284,6 +287,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
