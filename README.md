@@ -27,6 +27,7 @@
 | [0881-boats-to-save-people](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2029-stone-game-ix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2029-stone-game-ix) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -229,6 +230,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0877-stone-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 ## Prefix Sum
 |  |
@@ -290,6 +292,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
