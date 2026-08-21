@@ -68,6 +68,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0541-reverse-string-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
@@ -85,6 +86,7 @@
 | [0001-two-sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0242-valid-anagram) |
@@ -105,6 +107,7 @@
 | [0007-reverse-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
