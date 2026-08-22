@@ -23,6 +23,7 @@
 | [0739-daily-temperatures](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
@@ -228,6 +229,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Dynamic Programming
@@ -361,4 +363,8 @@
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
