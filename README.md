@@ -30,6 +30,7 @@
 | [0881-boats-to-save-people](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0941-valid-mountain-array) |
+| [1094-car-pooling](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1095-find-in-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -164,6 +165,7 @@
 | [0258-add-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0832-flipping-an-image) |
+| [1094-car-pooling](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1094-car-pooling) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
@@ -191,6 +193,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
+| [1094-car-pooling](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1686-stone-game-vi) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -202,6 +205,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
+| [1094-car-pooling](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1686-stone-game-vi) |
 ## Merge Sort
@@ -261,6 +265,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1094-car-pooling](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1094-car-pooling) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [1872-stone-game-viii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1872-stone-game-viii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
