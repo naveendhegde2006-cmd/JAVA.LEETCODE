@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0066-plus-one) |
@@ -100,6 +101,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0242-valid-anagram) |
