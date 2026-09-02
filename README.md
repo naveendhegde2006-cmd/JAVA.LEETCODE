@@ -60,6 +60,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3731-find-missing-elements) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
