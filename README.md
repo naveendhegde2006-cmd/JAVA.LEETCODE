@@ -63,6 +63,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -283,6 +284,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3903-smallest-stable-index-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
 |  |
 | ------- |
