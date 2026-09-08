@@ -142,6 +142,7 @@
 | [0492-construct-the-rectangle](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0877-stone-game) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1686-stone-game-vi](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1686-stone-game-vi) |
@@ -430,4 +431,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0303-range-sum-query-immutable) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
