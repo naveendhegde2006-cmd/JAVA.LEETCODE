@@ -139,6 +139,7 @@
 | [0263-ugly-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
+| [0492-construct-the-rectangle](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0877-stone-game) |
