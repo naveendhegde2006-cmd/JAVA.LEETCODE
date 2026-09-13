@@ -137,6 +137,7 @@
 | [0012-integer-to-roman](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0202-happy-number) |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0062-unique-paths) |
 | [0413-arithmetic-slices](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0877-stone-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -450,4 +452,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
