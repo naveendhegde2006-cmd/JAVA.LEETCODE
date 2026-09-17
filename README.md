@@ -22,6 +22,7 @@
 | [0274-h-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0413-arithmetic-slices) |
+| [0495-teemo-attacking](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0561-array-partition) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0832-flipping-an-image) |
 | [1094-car-pooling](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1094-car-pooling) |
