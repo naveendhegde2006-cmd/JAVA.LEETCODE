@@ -39,6 +39,7 @@
 | [0881-boats-to-save-people](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0941-valid-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1095-find-in-mountain-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -299,6 +300,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1095-find-in-mountain-array) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -320,6 +322,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1094-car-pooling) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [1872-stone-game-viii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1872-stone-game-viii) |
@@ -388,6 +391,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0413-arithmetic-slices) |
+| [1004-max-consecutive-ones-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
