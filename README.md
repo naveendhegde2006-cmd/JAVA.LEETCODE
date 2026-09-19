@@ -55,6 +55,7 @@
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2367-number-of-arithmetic-triplets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2498-frog-jump-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2498-frog-jump-ii) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
@@ -129,6 +130,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2367-number-of-arithmetic-triplets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -389,6 +391,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
