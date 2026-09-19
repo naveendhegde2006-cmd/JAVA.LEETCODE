@@ -162,6 +162,7 @@
 | [0836-rectangle-overlap](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0877-stone-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1686-stone-game-vi](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1872-stone-game-viii) |
@@ -472,6 +473,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
