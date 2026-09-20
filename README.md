@@ -42,6 +42,7 @@
 | [0904-fruit-into-baskets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0941-valid-mountain-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1095-find-in-mountain-array) |
@@ -132,6 +133,7 @@
 | [0242-valid-anagram](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2367-number-of-arithmetic-triplets) |
@@ -330,6 +332,7 @@
 | [0303-range-sum-query-immutable](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1094-car-pooling) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
