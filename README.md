@@ -20,6 +20,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0303-range-sum-query-immutable) |
@@ -301,6 +302,7 @@
 | [0035-search-insert-position](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -324,6 +326,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0713-subarray-product-less-than-k) |
@@ -395,6 +398,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0904-fruit-into-baskets) |
