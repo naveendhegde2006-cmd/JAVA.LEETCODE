@@ -38,6 +38,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0941-valid-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -129,6 +130,7 @@
 | [0217-contains-duplicate](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2367-number-of-arithmetic-triplets) |
@@ -395,6 +397,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
