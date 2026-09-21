@@ -20,6 +20,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0274-h-index) |
@@ -92,6 +93,7 @@
 | [0031-next-permutation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -165,6 +167,7 @@
 | [0066-plus-one](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0263-ugly-number) |
