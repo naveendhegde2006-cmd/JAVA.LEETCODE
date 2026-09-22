@@ -408,6 +408,7 @@
 | [0607-sales-person](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0627-swap-sex-of-employees) |
 | [1084-sales-analysis-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1084-sales-analysis-iii) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3436-find-valid-emails) |
 ## Timsort
 |  |
