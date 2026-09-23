@@ -53,6 +53,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1686-stone-game-vi](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1686-stone-game-vi) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -144,6 +145,7 @@
 | [0904-fruit-into-baskets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -326,6 +328,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1095-find-in-mountain-array) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2498-frog-jump-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2498-frog-jump-ii) |
@@ -353,6 +356,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1094-car-pooling) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1872-stone-game-viii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -429,6 +433,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
