@@ -122,6 +122,7 @@
 | [0227-basic-calculator-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0402-remove-k-digits) |
 | [0541-reverse-string-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0856-score-of-parentheses) |
@@ -312,6 +313,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0680-valid-palindrome-ii) |
@@ -400,6 +402,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0735-asteroid-collision) |
@@ -411,6 +414,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0739-daily-temperatures) |
