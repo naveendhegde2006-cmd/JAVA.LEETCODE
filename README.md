@@ -121,6 +121,7 @@
 | [0013-roman-to-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0013-roman-to-integer) |
 | [0227-basic-calculator-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0394-decode-string) |
 | [0541-reverse-string-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
@@ -387,6 +388,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -394,6 +396,7 @@
 | [0042-trapping-rain-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0735-asteroid-collision) |
