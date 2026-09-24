@@ -27,6 +27,7 @@
 | [0303-range-sum-query-immutable](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0495-teemo-attacking](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0495-teemo-attacking) |
+| [0503-next-greater-element-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0561-array-partition) |
@@ -388,6 +389,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0503-next-greater-element-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
@@ -395,6 +397,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0739-daily-temperatures) |
 ## Enumeration
