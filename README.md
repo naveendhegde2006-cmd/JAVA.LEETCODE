@@ -24,6 +24,7 @@
 | [0189-rotate-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0413-arithmetic-slices) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0832-flipping-an-image) |
@@ -257,6 +259,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -337,6 +340,7 @@
 | [0162-find-peak-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
