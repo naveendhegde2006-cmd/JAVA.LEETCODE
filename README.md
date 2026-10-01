@@ -27,6 +27,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0413-arithmetic-slices](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0495-teemo-attacking](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -323,6 +324,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -574,4 +576,8 @@
 | [0856-score-of-parentheses](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
