@@ -40,6 +40,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0739-daily-temperatures) |
@@ -164,6 +165,7 @@
 | [0242-valid-anagram](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0697-degree-of-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0697-degree-of-an-array) |
 | [0904-fruit-into-baskets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
