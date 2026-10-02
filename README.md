@@ -37,6 +37,7 @@
 | [0561-array-partition](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0735-asteroid-collision) |
@@ -161,6 +162,7 @@
 | [0217-contains-duplicate](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -284,6 +286,7 @@
 | [0506-relative-ranks](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
@@ -322,6 +325,7 @@
 | ------- |
 | [0274-h-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
 | [2029-stone-game-ix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -479,6 +483,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0413-arithmetic-slices) |
+| [0594-longest-harmonious-subsequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
