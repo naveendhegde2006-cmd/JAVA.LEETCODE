@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0035-search-insert-position) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -275,6 +277,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0274-h-index) |
