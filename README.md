@@ -221,6 +221,7 @@
 | [1872-stone-game-viii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2029-stone-game-ix) |
+| [2485-find-the-pivot-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2485-find-the-pivot-integer) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -413,6 +414,7 @@
 | [1872-stone-game-viii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1872-stone-game-viii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2485-find-the-pivot-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2485-find-the-pivot-integer) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3903-smallest-stable-index-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3904-smallest-stable-index-ii) |
