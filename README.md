@@ -65,6 +65,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1686-stone-game-vi](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1686-stone-game-vi) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -302,6 +303,7 @@
 | [1094-car-pooling](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1686-stone-game-vi](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1686-stone-game-vi) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
