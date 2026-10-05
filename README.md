@@ -83,6 +83,7 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2498-frog-jump-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2498-frog-jump-ii) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2923-find-champion-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2923-find-champion-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
@@ -248,6 +249,7 @@
 | [2319-check-if-matrix-is-x-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2923-find-champion-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2923-find-champion-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3033-modify-the-matrix) |
