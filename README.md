@@ -82,6 +82,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2498-frog-jump-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2498-frog-jump-ii) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -248,6 +249,7 @@
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2923-find-champion-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2923-find-champion-i) |
@@ -273,6 +275,7 @@
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
@@ -312,6 +315,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1686-stone-game-vi](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1686-stone-game-vi) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -325,6 +329,7 @@
 | [1094-car-pooling](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1686-stone-game-vi) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
 | ------- |
