@@ -174,6 +174,7 @@
 | [0697-degree-of-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0697-degree-of-an-array) |
 | [0904-fruit-into-baskets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -214,6 +215,7 @@
 | [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0877-stone-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -611,4 +613,8 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
