@@ -145,6 +145,7 @@
 | [0680-valid-palindrome-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -364,6 +365,7 @@
 | [0678-valid-parenthesis-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1686-stone-game-vi](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1686-stone-game-vi) |
 | [1903-largest-odd-number-in-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -461,6 +463,7 @@
 | [0735-asteroid-collision](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -615,6 +618,7 @@
 | [0020-valid-parentheses](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Increasing Subsequence
