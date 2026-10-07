@@ -38,6 +38,7 @@
 | [0566-reshape-the-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0697-degree-of-an-array) |
@@ -120,6 +121,7 @@
 | [0202-happy-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
@@ -312,6 +314,7 @@
 | [0561-array-partition](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
@@ -371,6 +374,7 @@
 | [0402-remove-k-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0881-boats-to-save-people) |
@@ -393,6 +397,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0611-valid-triangle-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
