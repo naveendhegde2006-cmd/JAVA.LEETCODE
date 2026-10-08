@@ -117,6 +117,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0142-linked-list-cycle-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0189-rotate-array) |
@@ -177,6 +178,7 @@
 | [0012-integer-to-roman](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0041-first-missing-positive) |
+| [0142-linked-list-cycle-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0217-contains-duplicate) |
@@ -461,6 +463,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0876-middle-of-the-linked-list) |
@@ -553,6 +556,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0202-happy-number) |
 ## Brainteaser
 |  |
