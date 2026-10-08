@@ -128,6 +128,7 @@
 | [0680-valid-palindrome-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0881-boats-to-save-people) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -462,6 +463,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
