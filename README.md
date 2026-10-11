@@ -87,6 +87,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2639-find-the-width-of-columns-of-a-grid) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2923-find-champion-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2923-find-champion-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
@@ -513,6 +514,7 @@
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3127-make-a-square-with-the-same-color](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3127-make-a-square-with-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
