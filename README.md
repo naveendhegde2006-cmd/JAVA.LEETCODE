@@ -475,6 +475,7 @@
 | [0086-partition-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -483,6 +484,7 @@
 | [0002-add-two-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
