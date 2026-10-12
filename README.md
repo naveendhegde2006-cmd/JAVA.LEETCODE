@@ -122,6 +122,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0189-rotate-array) |
@@ -314,6 +315,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -321,6 +323,7 @@
 | ------- |
 | [0015-3sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0274-h-index) |
@@ -359,6 +362,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -480,6 +484,7 @@
 | [0086-partition-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0234-palindrome-linked-list) |
