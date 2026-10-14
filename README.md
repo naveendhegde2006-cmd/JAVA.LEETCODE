@@ -520,6 +520,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -612,6 +613,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
 ## Breadth-First Search
 |  |
@@ -711,9 +713,11 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
