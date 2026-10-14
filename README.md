@@ -517,6 +517,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0227-basic-calculator-ii) |
@@ -608,6 +609,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
 ## Breadth-First Search
 |  |
@@ -702,4 +704,12 @@
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
