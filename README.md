@@ -612,12 +612,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0100-same-tree) |
 | [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
 ## Bézout's Lemma
 |  |
@@ -712,12 +714,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
