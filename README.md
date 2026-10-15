@@ -90,6 +90,7 @@
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2923-find-champion-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -209,6 +210,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -728,4 +730,12 @@
 | [0101-symmetric-tree](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
