@@ -619,6 +619,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
+| [0543-diameter-of-binary-tree](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -722,6 +723,7 @@
 | [0101-symmetric-tree](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -730,6 +732,7 @@
 | [0101-symmetric-tree](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -738,4 +741,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
