@@ -106,6 +106,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -320,6 +321,7 @@
 | [0832-flipping-an-image](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0832-flipping-an-image) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
