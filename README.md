@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0136-single-number) |
@@ -467,6 +468,7 @@
 | [0042-trapping-rain-water](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0198-house-robber) |
 | [0413-arithmetic-slices](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0413-arithmetic-slices) |
