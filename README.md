@@ -282,6 +282,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -339,6 +340,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
