@@ -80,6 +80,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1872-stone-game-viii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1872-stone-game-viii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -379,6 +380,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1686-stone-game-vi](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1686-stone-game-vi) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -638,6 +640,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
