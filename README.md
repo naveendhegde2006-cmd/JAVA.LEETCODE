@@ -35,6 +35,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0413-arithmetic-slices) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0495-teemo-attacking](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0506-relative-ranks) |
@@ -263,6 +264,7 @@
 | [0263-ugly-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0633-sum-of-square-numbers) |
@@ -365,6 +367,7 @@
 | [0274-h-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0506-relative-ranks) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0561-array-partition](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0561-array-partition) |
