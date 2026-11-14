@@ -113,6 +113,7 @@
 | [3127-make-a-square-with-the-same-color](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3127-make-a-square-with-the-same-color) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -530,6 +531,7 @@
 | [2428-maximum-sum-of-an-hourglass](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2485-find-the-pivot-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2485-find-the-pivot-integer) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
@@ -667,6 +669,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
