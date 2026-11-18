@@ -638,6 +638,7 @@
 | [0626-exchange-seats](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1068-product-sales-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1084-sales-analysis-iii) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3436-find-valid-emails) |
