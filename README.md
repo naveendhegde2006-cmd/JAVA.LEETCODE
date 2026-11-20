@@ -294,6 +294,7 @@
 | [2409-count-days-spent-together](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2485-find-the-pivot-integer) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
+| [2769-find-the-maximum-achievable-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
