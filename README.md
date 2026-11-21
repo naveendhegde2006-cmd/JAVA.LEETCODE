@@ -99,6 +99,7 @@
 | [2498-frog-jump-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2498-frog-jump-ii) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -245,6 +246,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
@@ -626,6 +628,7 @@
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2367-number-of-arithmetic-triplets) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3127-make-a-square-with-the-same-color](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3127-make-a-square-with-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
