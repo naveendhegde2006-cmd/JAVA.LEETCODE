@@ -652,6 +652,7 @@
 | [1075-project-employees-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1179-reformat-department-table](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1179-reformat-department-table) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3436-find-valid-emails) |
 ## Timsort
