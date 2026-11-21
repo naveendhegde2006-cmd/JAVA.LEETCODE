@@ -208,6 +208,7 @@
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2409-count-days-spent-together](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2409-count-days-spent-together) |
+| [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
