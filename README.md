@@ -203,6 +203,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
