@@ -118,6 +118,7 @@
 | [3142-check-if-grid-satisfies-conditions](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -307,6 +308,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -341,6 +343,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0258-add-digits) |
 | [2614-prime-in-diagonal](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2614-prime-in-diagonal) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
@@ -637,6 +640,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3127-make-a-square-with-the-same-color](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3127-make-a-square-with-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
 |  |
@@ -699,6 +703,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
