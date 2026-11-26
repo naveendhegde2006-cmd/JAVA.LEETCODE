@@ -309,6 +309,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -364,6 +365,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
