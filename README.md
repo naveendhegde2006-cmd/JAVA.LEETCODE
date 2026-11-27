@@ -182,6 +182,7 @@
 | [0013-roman-to-integer](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0394-decode-string) |
@@ -276,6 +277,7 @@
 | [0062-unique-paths](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0202-happy-number) |
