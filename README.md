@@ -286,6 +286,7 @@
 | [0263-ugly-number](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0365-water-and-jug-problem) |
+| [0390-elimination-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0390-elimination-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -601,6 +602,7 @@
 | [0143-reorder-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naveendhegde2006-cmd/JAVA.LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
